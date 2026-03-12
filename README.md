@@ -13,6 +13,6 @@ Arquivos que o .NET criou para mim:
 2. `ScannerExpert.csproj`: As configurações do meu projeto.
 
 ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto](./processo.png)
+![Print do terminal rodando o projeto](./processando.png)
 
 ![Print do terminal com o projeto finalizado](./finalizado.png)
